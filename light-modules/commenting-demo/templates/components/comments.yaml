@@ -1,0 +1,4 @@
+title: Comments
+renderType: freemarker
+templateScript: /commenting-demo/templates/components/comments.ftl
+dialog: commenting-demo:components/comments

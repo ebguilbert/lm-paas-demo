@@ -1,0 +1,8 @@
+datasource:
+ username: magnolia
+ password: magnolia
+ url: jdbc:postgresql://sales-demo-integration-magnolia-shared-database-svc.sales-demo-integration:5432/public-data
+ driver: org.postgresql.Driver
+ migration:
+  path: dbmigration/pg
+  run: true

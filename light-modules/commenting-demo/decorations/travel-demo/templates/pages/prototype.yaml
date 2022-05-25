@@ -1,0 +1,5 @@
+areas:
+  main:
+    availableComponents:
+      random-quotation:
+        id: commenting-demo:components/comments

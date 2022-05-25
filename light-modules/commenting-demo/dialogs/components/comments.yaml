@@ -1,0 +1,12 @@
+label: Comments
+form:
+  properties:
+    title:
+      label: Title
+      $type: textField
+      i18n: true
+footerLayout:
+  $type: defaultEditorActionLayout
+  primaryActions:
+    commit: commit
+    cancel: cancel
